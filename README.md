@@ -16,21 +16,41 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name: Rasheeda Sarguro **
+- **Date: 04 March 2024 **
+- **Current Role/Position: Software Developer student **
+- **Field of Interest: Front-end Development, focusing on user experience of website / app  **
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
-    - Identify skills you need to develop or improve.
+    List your current skills and areas of expertise:
+
+    - Communication
+    - Extensive customer service background
+    - Quick, visual learner
+    - Good at spotting areas of improvement
+    
+    Identify skills you need to develop or improve:
+    - Javascript
+    - Math-based data and functions
+    
+
 2. **Interests and Values**:
     
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    Describe your key interests related to your career:
+    - I would like to apply my background in customer service to create better user experiences when engaging with websites.
+    - As I have a background in aviation and have familiarity with the medical industry, being able to apply my software development skills to a career in either one of those fields would be the most intriguing to me.
+    - Having a young child that will grow up in the digital world, I also have an interest in cyber-protection of minors.
+
+    What values are important to you in a work environment?:
+
+    (1) Flexibility in schedule 
+    (2) Work-Life balance / Understanding of familial commitments
+    (3) Vacation time off
+    (4) Remote work for digital nomad lifestyle
+    (5) Money 
 
 ### Part 2: Career Exploration Insights
 
@@ -47,7 +67,9 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
+    List your specific, measurable, achievable, relevant, and time-bound goals.
+    - Learn other languages including: C/ C++, Python, and Node JS. Most of the job offers I saw required some background knowledge in these languages.
+
     - Explain the rationale behind each goal.
 2. **Long-term Goals** (3-5 years and beyond):
     
@@ -69,19 +91,16 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    Identify potential obstacles or challenges in reaching your goals.
+    - Time & money. As I have familial obligations, I don't know how much free time I can dedicate to learning another language whilst also working full-time.
+
+    Consider strategies to overcome these challenges.
+    - I will create a schedule with my husband whereby I dedicate time to focusing on learning other software languages and skills whilst he handles child-care and household duties. 
+
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
     - Include networking, mentorship, or educational opportunities.
 
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
 
 
